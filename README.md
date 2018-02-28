@@ -38,3 +38,6 @@
     ### Yandex Disk Delete Photo every day at 00:00
     0 0 * * * /root/YaDiskDel.sh > /dev/null 2>/dev/null
 
+## Скриншоты ###
+
+![ya-disk-del](https://user-images.githubusercontent.com/35877180/36772146-1de33acc-1c65-11e8-9bac-65aeca12271f.PNG)
