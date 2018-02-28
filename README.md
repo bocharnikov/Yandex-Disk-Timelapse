@@ -33,7 +33,7 @@
 ## CRONTAB ###
 
     ### WebCam Timelapse every minute
-    #*/1 * * * * /root/timelapse.sh > /dev/null 2>/dev/null
+    */1 * * * * /root/timelapse.sh > /dev/null 2>/dev/null
     
     ### Yandex Disk Delete Photo every day at 00:00
     0 0 * * * /root/YaDiskDel.sh > /dev/null 2>/dev/null
